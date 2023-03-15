@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1355006773",
+    "project_id": "parking-koi-42e64",
+    "storage_bucket": "parking-koi-42e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1355006773:android:82e3e8496671d1232c827c",
+        "android_client_info": {
+          "package_name": "com.example.parking_koi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1355006773-n69b5gc8f8gu9j98vgpf42lr89mvfasp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAo-Vhdayy27V26EuyIGNWLFyLfg-X9UI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1355006773-n69b5gc8f8gu9j98vgpf42lr89mvfasp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
